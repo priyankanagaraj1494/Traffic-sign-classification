@@ -2,8 +2,8 @@
 
 Simple classification problem of traffic signs using tensorflow
 
-model.py contains code for training,validation and testing
-datacv.py contains function for reading the data and storing the images and labels seperately
+model.py contains code for training,validation and testing.   
+ datacv.py contains function for reading the data and storing the images and labels seperately
 
 Dataset used:"BelgiumTS for Classification (cropped images), which are called "BelgiumTSC_Training" and "BelgiumTSC_Testing"
 http://btsd.ethz.ch/shareddata/ 
